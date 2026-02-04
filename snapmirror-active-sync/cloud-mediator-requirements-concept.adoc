@@ -19,7 +19,7 @@ Before you link:cloud-mediator-config-task.html[configure ONTAP Cloud Mediator],
 
 == Firewall requirements
 
-The firewall setting on the domain controller must allow HTTPS traffic to `api.bluexp.netapp.com` from both clusters.
+The firewall setting must allow HTTPS traffic to `api.bluexp.netapp.com` from both clusters.
 
 == Proxy server requirements
 
